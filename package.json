@@ -1,0 +1,22 @@
+{
+  "name": "gulp-project-template",
+  "version": "0.0.4",
+  "description": "A gulp web app template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bernardogfilho/gulp-project-template"
+  },
+  "keywords": [
+    "gulp",
+    "template",
+    "javascript"
+  ],
+  "author": "Pooja Varma",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
